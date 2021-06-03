@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/AndersOgKaroline.github.io.git/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/AndersOgKaroline.github.io.git/static/js/main.b85e3130.chunk.js",
-    "main.js.map": "/AndersOgKaroline.github.io.git/static/js/main.b85e3130.chunk.js.map",
-    "runtime-main.js": "/AndersOgKaroline.github.io.git/static/js/runtime-main.63af44f6.js",
-    "runtime-main.js.map": "/AndersOgKaroline.github.io.git/static/js/runtime-main.63af44f6.js.map",
-    "static/js/2.bf866c46.chunk.js": "/AndersOgKaroline.github.io.git/static/js/2.bf866c46.chunk.js",
-    "static/js/2.bf866c46.chunk.js.map": "/AndersOgKaroline.github.io.git/static/js/2.bf866c46.chunk.js.map",
-    "static/js/3.45cfa4ea.chunk.js": "/AndersOgKaroline.github.io.git/static/js/3.45cfa4ea.chunk.js",
-    "static/js/3.45cfa4ea.chunk.js.map": "/AndersOgKaroline.github.io.git/static/js/3.45cfa4ea.chunk.js.map",
-    "index.html": "/AndersOgKaroline.github.io.git/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/AndersOgKaroline.github.io.git/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.bf866c46.chunk.js.LICENSE.txt": "/AndersOgKaroline.github.io.git/static/js/2.bf866c46.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/AndersOgKaroline.github.io.git/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/static/js/main.b85e3130.chunk.js",
+    "main.js.map": "/static/js/main.b85e3130.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7f693371.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7f693371.js.map",
+    "static/js/2.bf866c46.chunk.js": "/static/js/2.bf866c46.chunk.js",
+    "static/js/2.bf866c46.chunk.js.map": "/static/js/2.bf866c46.chunk.js.map",
+    "static/js/3.45cfa4ea.chunk.js": "/static/js/3.45cfa4ea.chunk.js",
+    "static/js/3.45cfa4ea.chunk.js.map": "/static/js/3.45cfa4ea.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.bf866c46.chunk.js.LICENSE.txt": "/static/js/2.bf866c46.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.63af44f6.js",
+    "static/js/runtime-main.7f693371.js",
     "static/js/2.bf866c46.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.b85e3130.chunk.js"
